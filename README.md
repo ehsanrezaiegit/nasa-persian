@@ -36,10 +36,3 @@ Since this is a static website, no build tools or package managers are required.
     ```
 3.  **Run the project:**
     Simply open the `index.html` file in your favorite web browser. Alternatively, you can use the Live Server extension in VS Code for a better development experience.
-
-## 📂 Project Structure
-
-```text
-├── index.html   # Main HTML layout and content
-├── style.css    # All styling, responsive design, and CSS animations
-└── script.js    # Logic for theme toggle, mobile menu, and scroll animations
