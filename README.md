@@ -28,7 +28,7 @@ Since this is a static website, no build tools or package managers are required.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/nasa-space-exploration.git](https://github.com/YOUR-USERNAME/nasa-space-exploration.git)
+    git clone [https://github.com/ehsanrezaiegit/nasa-persian.git]
     ```
 2.  **Navigate to the project directory:**
     ```bash
