@@ -35,4 +35,4 @@ Since this is a static website, no build tools or package managers are required.
     cd nasa-space-exploration
     ```
 3.  **Run the project:**
-    Simply open the `index.html` file in your favorite web browser. Alternatively, you can use the Live Server extension in VS Code for a better development experience.
+    Simply open the `index.html` file in your favorite web browser. 
