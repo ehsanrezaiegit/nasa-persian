@@ -4,15 +4,15 @@ A modern, responsive, and visually engaging landing page concept for NASA Space 
 
 Built with pure HTML, CSS, and Vanilla JavaScript, it demonstrates how to create a high-performance web experience without relying on heavy frameworks.
 
-## ✨ Features
+✨ Features
 
 * **🌓 Dark & Light Mode:** A fully integrated theme toggle that remembers the user's preference using `localStorage`.
 * **🪟 Glassmorphism Design:** Modern translucent headers and UI elements with background blur effects.
 * **📱 Fully Responsive:** Carefully crafted CSS media queries ensure a perfect layout across all devices (desktops, tablets, and mobile phones).
 * **🎬 Smooth Animations:** Features CSS keyframes for floating elements, fade-ins, and dynamic hover states on cards and buttons.
-* **📈 Animated Statistics:** A JavaScript-powered number counter that animates when the statistics section scrolls into the viewport.
-* **📜 Smooth Scrolling:** Native smooth scrolling behavior for internal anchor links.
-* **🍔 Mobile Navigation:** A clean and accessible hamburger menu for smaller screens.
+📈 Animated Statistics:** A JavaScript-powered number counter that animates when the statistics section scrolls into the viewport.
+📜 Smooth Scrolling:** Native smooth scrolling behavior for internal anchor links.
+🍔 Mobile Navigation:** A clean and accessible hamburger menu for smaller screens.
 
 ## 🛠️ Tech Stack
 
