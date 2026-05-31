@@ -14,7 +14,7 @@ Built with pure HTML, CSS, and Vanilla JavaScript, it demonstrates how to create
 📜 Smooth Scrolling:** Native smooth scrolling behavior for internal anchor links.
 🍔 Mobile Navigation:** A clean and accessible hamburger menu for smaller screens.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 * **HTML5:** Semantic and accessible document structure.
 CSS3:** Custom properties (variables), Flexbox, CSS Grid, animations, and backdrop-filters.
@@ -22,17 +22,17 @@ Vanilla JavaScript (ES6+):** DOM manipulation, intersection detection (scroll ev
 FontAwesome:** Scalable vector icons.
 * **Google Fonts:** Utilizing the 'Inter' typeface for clean, highly legible typography.
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 Since this is a static website, no build tools or package managers are required.
 
-1.  **Clone the repository:**
+1.  Clone the repository:**
     ```bash
     git clone [https://github.com/ehsanrezaiegit/nasa-persian.git]
     ```
-2.  **Navigate to the project directory:**
+2.  Navigate to the project directory:**
     ```bash
     cd nasa-space-exploration
     ```
-3.  **Run the project:**
+3.  Run the project:**
     Simply open the `index.html` file in your favorite web browser. 
