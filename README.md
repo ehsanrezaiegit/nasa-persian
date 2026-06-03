@@ -1,8 +1,8 @@
 🚀 NASA Space Exploration - Modern-UI-Concept
 
-A modern, responsive, and visually engaging landing page concept for NASA Space Exploration. This project showcases advanced UI/UX principles, including glassmorphism, smooth animations, and a seamless dark/light theme toggle. 
+A modern, responsive,and visually engaging landing page concept for NASA Space Exploration.This project showcases advanced UI/UX principles,including glassmorphism, smooth animations, and a seamless dark/light theme toggle. 
 
-Built with pure HTML, CSS, and Vanilla JavaScript, it demonstrates how to create a high-performance web experience without relying on heavy frameworks.
+Built with pure HTML,CSS,and Vanilla JavaScript,it demonstrates how to create a high-performance web experience without relying on heavy frameworks.
 
 ✨ Features
 
