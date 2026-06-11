@@ -16,11 +16,11 @@ Built with pure HTML,CSS,and Vanilla JavaScript,it demonstrates how to create a 
 
 🛠️ Tech Stack
 
-* **HTML5:** Semantic and accessible document structure.
+HTML5:** Semantic and accessible document structure.
 CSS3:** Custom properties (variables), Flexbox, CSS Grid, animations, and backdrop-filters.
 Vanilla JavaScript (ES6+):** DOM manipulation, intersection detection (scroll events), and `localStorage` management.
 FontAwesome:** Scalable vector icons.
-* **Google Fonts:** Utilizing the 'Inter' typeface for clean, highly legible typography.
+Google Fonts:** Utilizing the 'Inter' typeface for clean, highly legible typography.
 
 🚀 Getting Started
 
