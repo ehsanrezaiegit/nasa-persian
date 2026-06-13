@@ -26,7 +26,7 @@ Google Fonts:** Utilizing the 'Inter' typeface for clean, highly legible typogra
 
 Since this is a static website, no build tools or package managers are required.
 
-1.  Clone the repository:**
+1.  Clone the repository:
     ```bash
     git clone [https://github.com/ehsanrezaiegit/nasa-persian.git]
     ```
