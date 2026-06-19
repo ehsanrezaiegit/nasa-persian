@@ -24,7 +24,7 @@ Google Fonts:** Utilizing the 'Inter' typeface for clean, highly legible typogra
 
 🚀 Getting Started
 
-Since this is a static website, no build tools or package managers are required.
+Since this is a static website.
 
 1.  Clone the repository:
     ```bash
